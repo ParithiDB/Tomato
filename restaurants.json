@@ -1,0 +1,31 @@
+{
+    "data": [
+      {
+        "restaurantName": "Baby Restaurant",
+        "restaurantImage": "https://b.zmtcdn.com/data/pictures/5/18740725/7ab55b7d6888da9ca00ba2de8e25ad75_o2_featured_v2.jpg?output-format=webp",
+        "cuisine": "South Indian, North Indian",
+        "ratings": 4.5,
+        "offer": "50% OFF Upto 100",
+        "minTimeToDeliver": "23",
+        "minQuanitityPrice": "150 for one"
+      },
+      {
+        "restaurantName": "Karupatti coffee - Halwa Kadai",
+        "restaurantImage": "https://b.zmtcdn.com/data/pictures/5/18740725/7ab55b7d6888da9ca00ba2de8e25ad75_o2_featured_v2.jpg?output-format=webp",
+        "cuisine": ["North Indian", "Fast Food", "Sandwich", "Chinese"],
+        "ratings": 3,
+        "offer": "50% OFF Upto 100",
+        "minTimeToDeliver": "25",
+        "minQuanitityPrice": "100 for one"
+      },
+      {
+        "restaurantName": "BMS Biryani",
+        "restaurantImage": "https://b.zmtcdn.com/data/pictures/5/18739595/01c361be49104bfce556f3360879c13a_o2_featured_v2.jpg",
+        "cuisine": ["North Indian"],
+        "ratings": 3,
+        "offer": "50% OFF Upto 100",
+        "minTimeToDeliver": "28",
+        "minQuanitityPrice": "100 for one"
+      }
+    ]
+  }

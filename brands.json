@@ -1,0 +1,50 @@
+{
+    "data" : [
+        {
+            "label" : "The Vellore Kitchen",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/bd620b5f0602eceddbce6a56237f3ff1_1611311455.png?output-format=webp",
+            "mins" : "23 min"
+        },
+        {
+            "label" : "KFC",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/9da52e2b69f19bb603227a750e788d33_1613215072.png?output-format=webp",
+            "mins" : "32 min"
+        },
+        {
+            "label" : "Limra Student Restaurant",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/a823b6b6139b837c1b1e90cf0c74043e_1632984418.png?output-format=webp",
+            "mins" : "40 min"
+        },
+        {
+            "label" : "Domino's Pizza",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/5caf38856d23347b351bb7abf97134d3_1630421648.png?output-format=webp",
+            "mins" : "25 min"
+        },
+        {
+            "label" : "Hart Lounge",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/2aae86f8f5fc4568a9b9736eb8902206_1611311381.png?output-format=webp",
+            "mins" : "41 min"
+        },
+        {
+            "label" : "Nandhini Restaurant",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/d96ae18814107bd60057c367d55412e8_1632984385.png?output-format=webp",
+            "mins" : "27 min"
+        },
+        {
+            "label" : "Harish Bakery",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/5208bf1f3e770e6246fcdb800bd4627d_1671873531.png?output-format=webp",
+            "mins" : "18 min"
+        },
+        {
+            "label" : "Baby Restaurant",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/fc3d8b731c8ad5385277df917a2a837f_1632984306.png?output-format=webp",
+            "mins" : "27 min"
+        },
+        {
+            "label" : "Limra Garden Restaurant",
+            "image" : "https://b.zmtcdn.com/data/brand_creatives/logos/a823b6b6139b837c1b1e90cf0c74043e_1632984467.png?output-format=webp",
+            "mins" : "27 min"
+        }
+        
+    ]
+}
